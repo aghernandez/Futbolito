@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="lightBlue">#b3e5fc</color>
+    <color name="whitel">#FFFFFF</color>
+    <color name="LightPrimari">#B2EBF2</color>
+    <color name="GreyPrimari">#757575</color>
+    <color name="Accent">#03A9F4</color>
+    <color name="Black">#212121</color>
+    <color name="AliceBlue">#F7F8F9 </color>
+    <color name="PattenBlues">#D7ECF9 </color>
+    <color name="MayaBlues">#6CBBF7 </color>
+    <color name="Sail">#9BCCF6 </color>
+</resources>
